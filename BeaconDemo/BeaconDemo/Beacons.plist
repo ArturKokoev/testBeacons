@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Beacons</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Attendence</string>
+			<key>label</key>
+			<string>CA18</string>
+			<key>uuid</key>
+			<string>8EBA35EF-00C6-4270-9E80-3DEC03B9CA18</string>
+			<key>major</key>
+			<string>1000</string>
+			<key>minor</key>
+			<string>64211</string>
+			<key>proximity</key>
+			<string>Immidiate</string>
+			<key>action</key>
+			<string>perform</string>
+			<key>notificationMessage</key>
+			<string>Your attendance has been logged.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Welcome</string>
+			<key>label</key>
+			<string>CA18</string>
+			<key>uuid</key>
+			<string>8EBA35EF-00C6-4270-9E80-3DEC03B9CA18</string>
+			<key>major</key>
+			<string>1000</string>
+			<key>minor</key>
+			<string>62115</string>
+			<key>proximity</key>
+			<string>Far</string>
+			<key>action</key>
+			<string>present</string>
+			<key>notificationMessage</key>
+			<string>Welcome. Swipe for more information.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dining</string>
+			<key>label</key>
+			<string>CA18</string>
+			<key>uuid</key>
+			<string>8EBA35EF-00C6-4270-9E80-3DEC03B9CA18</string>
+			<key>major</key>
+			<string>1000</string>
+			<key>minor</key>
+			<string>62117</string>
+			<key>proximity</key>
+			<string>Near</string>
+			<key>action</key>
+			<string>present</string>
+			<key>notificationMessage</key>
+			<string>Welcome. Swipe to see the lunch menu!</string>
+		</dict>
+	</array>
+</dict>
+</plist>
